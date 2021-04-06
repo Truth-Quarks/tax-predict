@@ -11,3 +11,4 @@ In broad strokes, it will:
     * predicting an assessment = SR_pred * input$price
     * predicting an annual tax = assessment * twpTaxRate 
     * And adjusting by average annual tax increase (calculated separately)
+Here's a test change
