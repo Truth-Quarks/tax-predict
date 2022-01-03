@@ -1,0 +1,568 @@
+County,	Town,	General_Rate,	Effective_Rate
+Atlantic,	Absecon,	3.302,	3.137
+Atlantic,	Atlantic City,	3.934,	3.61
+Atlantic,	Brigantine,	1.688,	1.647
+Atlantic,	Buena,	3.16,	3.453
+Atlantic,	Buena	Vista,	2.607,	2.823
+Atlantic,	Corbin City,	1.9,	1.882
+Atlantic,	Egg	Harbor City,	5.281,	4.867
+Atlantic,	Egg	Harbor Township,	3.301,	3.072
+Atlantic,	Estell Manor,	2.586,	2.391
+Atlantic,	Folsom,	2.087,	2.068
+Atlantic,	Galloway,	3.097,	2.928
+Atlantic,	Hamilton,	3.219,	2.918
+Atlantic,	Hammonton,	2.719,	2.539
+Atlantic,	Linwood,	3.556,	3.632
+Atlantic,	Longport,	0.986,	0.914
+Atlantic,	Margate	City,	1.548,	1.35
+Atlantic,	Mullica,	3.191,	3.05
+Atlantic,	Northfield,	3.468,	3.414
+Atlantic,	Pleasantville,	4.773,	4.855
+Atlantic,	Port Republic,	2.774,	2.442
+Atlantic,	Somers Point,	3.224,	3.198
+Atlantic,	Ventnor,	2.591,	2.467
+Atlantic,	Weymouth,	2.572,	2.29
+Bergen,	Allendale,	2.413,	2.275
+Bergen,	Alpine,	0.759,	0.773
+Bergen,	Bergenfield,	3.3,	2.764
+Bergen,	Bogota,	4.073,	3.193
+Bergen,	Carlstadt,	1.775,	1.83
+Bergen,	Cliffside	Park,	2.488,	2.042
+Bergen,	Closter,	2.241,	2.218
+Bergen,	Cresskill,	2.432,	2.33
+Bergen,	Demarest,	2.704,	2.208
+Bergen,	Dumont,	3.759,	2.957
+Bergen,	Elmwood	Park,	3.002,	2.666
+Bergen,	East Rutherford,	1.819,	1.752
+Bergen,	Edgewater,	1.945,	1.413
+Bergen,	Emerson,	2.911,	2.627
+Bergen,	Englewood,	2.815,	2.422
+Bergen,	Englewood	Cliffs,	1.151,	1.029
+Bergen,	Fairlawn,	3.43,	2.768
+Bergen,	Fairview,	2.587,	2.548
+Bergen,	Fort Lee,	2.409,	2.17
+Bergen,	Franklin Lakes,	1.648,	1.608
+Bergen,	Garfield,	2.962,	2.351
+Bergen,	Glen	Rock,	3.049,	2.692
+Bergen,	Hackensack,	3.309,	3.224
+Bergen,	Harrington Park,	2.947,	2.607
+Bergen,	Hasbrouck	Heights,	2.876,	2.782
+Bergen,	Haworth,	2.919,	2.513
+Bergen,	Hillsdale,	2.907,	2.633
+Bergen,	Hohokus,	2.2,	1.967
+Bergen,	Leonia,	3.09,	2.545
+Bergen,	Little Ferry,	3.244,	3.113
+Bergen,	Lodi,	3.285,	2.432
+Bergen,	Lyndhurst,	2.974,	2.551
+Bergen,	Mahwah,	1.904,	1.727
+Bergen,	Maywood,	3.16,	2.432
+Bergen,	Midland	Park,	3.118,	2.587
+Bergen,	Montvale,	2.431,	2.082
+Bergen,	Moonachie,	2.307,	2.194
+Bergen,	New	Milford,	3.605,	2.883
+Bergen,	North	Arlington,	2.754,	2.816
+Bergen,	Northvale,	3.032,	2.59
+Bergen,	Norwood,	2.517,	2.332
+Bergen,	Oakland,	2.999,	2.478
+Bergen,	Old	Tappan,	2.092,	2.072
+Bergen,	Oradell,	2.763,	2.685
+Bergen,	Palisades	Park,	1.543,	1.565
+Bergen,	Paramus,	1.595,	1.547
+Bergen,	Park Ridge,	2.926,	2.496
+Bergen,	Ramsey,	2.57,	2.422
+Bergen,	Ridgefield,	2.538,	2.001
+Bergen,	Ridgefield Park Village,	3.248,	3.136
+Bergen,	Ridgewood	Village,	2.637,	2.276
+Bergen,	Riveredge,	3.57,	2.71
+Bergen,	Rivervale,	2.613,	2.559
+Bergen,	Rochelle Park,	2.584,	2.34
+Bergen,	Rockleigh,	0.871,	0.862
+Bergen,	Rutherford,	2.851,	2.504
+Bergen,	Saddle Brook,	2.575,	2.469
+Bergen,	Saddle River,	0.959,	0.977
+Bergen,	South	Hackensack,	2.684,	2.773
+Bergen,	Teaneck,	3.234,	2.655
+Bergen,	Tenafly,	2.618,	2.21
+Bergen,	Teterboro,	1.097,	1.067
+Bergen,	Upper	Saddle River,	2.434,	2.005
+Bergen,	Waldwick,	2.767,	2.611
+Bergen,	Wallington,	3.085,	2.557
+Bergen,	Washington,	2.485,	2.205
+Bergen,	Westwood,	2.534,	2.466
+Bergen,	Woodcliff	Lake,	2.101,	2.135
+Bergen,	Wood Ridge,	2.816,	2.438
+Bergen,	Wyckoff,	1.835,	1.83
+Burlington,	Bass River,	2.246,	2.196
+Burlington,	Beverly,	4.638,	4.426
+Burlington,	Bordentown,	3.476,	3.157
+Burlington,	Bordentown,	3.298,	2.443
+Burlington,	Burlington City,	3.998,	3.664
+Burlington,	Burlington Township,	2.906,	2.494
+Burlington,	Chesterfield,	2.94,	2.812
+Burlington,	Cinnaminson,	3.367,	2.978
+Burlington,	Delanco,	3.264,	3.009
+Burlington,	Delran,	3.724,	3.22
+Burlington,	Eastampton,	3.126,	2.789
+Burlington,	Edgewater	Park,	3.182,	3.234
+Burlington,	Evesham,	2.793,	2.609
+Burlington,	Fieldsboro,	2.884,	2.579
+Burlington,	Florence,	2.396,	2.331
+Burlington,	Hainesport,	2.48,	2.232
+Burlington,	Lumberton,	2.417,	2.363
+Burlington,	Mansfield,	3.334,	2.693
+Burlington,	Maple	Shade,	3.604,	3.347
+Burlington,	Medford,	3.212,	2.874
+Burlington,	Medford	Lakes,	3.33,	3.026
+Burlington,	Moorestown,	2.607,	2.081
+Burlington,	Mount	Holly,	2.965,	2.909
+Burlington,	Mount	Laurel,	2.732,	2.472
+Burlington,	New	Hanover,	2.497,	1.786
+Burlington,	North	Hanover,	2.243,	2.146
+Burlington,	Palmyra,	4.005,	3.74
+Burlington,	Pemberton	Borough,	2.223,	2.025
+Burlington,	Pemberton	Township,	2.457,	2.391
+Burlington,	Riverside,	3.698,	3.649
+Burlington,	Riverton,	3.653,	3.063
+Burlington,	Shamong,	2.806,	2.593
+Burlington,	Southampton,	2.932,	2.41
+Burlington,	Springfield,	2.983,	2.584
+Burlington,	Tabernacle,	3.033,	2.717
+Burlington,	Washington,	1.272,	1.18
+Burlington,	Westampton,	2.463,	2.334
+Burlington,	Willingboro,	4.013,	3.936
+Burlington,	Woodland,	2.533,	2.702
+Burlington,	Wrightstown,	2.943,	2.596
+Camden,	Audubon,	3.606,	3.485
+Camden,	Audubon	Park,	6.319,	6.269
+Camden,	Barrington,	4.4,	4.183
+Camden,	Bellmawr,	3.844,	3.885
+Camden,	Berlin,	3.29,	3.306
+Camden,	Berlin,	3.681,	3.383
+Camden,	Brooklawn,	4.045,	3.871
+Camden,	Camden,	3.18,	2.871
+Camden,	Cherry Hill	Twnshp,	3.753,	3.354
+Camden,	Chesilhurst,	3.477,	3.641
+Camden,	Clementon,	4.299,	4.155
+Camden,	Collingswood,	3.586,	3.494
+Camden,	Gibbsboro,	4.01,	3.508
+Camden,	Gloucester City,	4.498,	4.259
+Camden,	Gloucester Township,	3.89,	3.736
+Camden,	Haddon,	3.792,	3.33
+Camden,	Haddonfield,	3.125,	2.959
+Camden,	Haddon Heights,	3.33,	3.299
+Camden,	Hi Nella,	5.228,	5.273
+Camden,	Laurel Springs,	5.194,	4.834
+Camden,	Lawnside,	4.236,	4.06
+Camden,	Lindenwold,	4.878,	4.863
+Camden,	Magnolia,	4.432,	4.182
+Camden,	Merchantville,	4.731,	4.501
+Camden,	Mount	Ephraim,	4.745,	4.581
+Camden,	Oaklyn,	4.671,	4.139
+Camden,	Pennsauken,	3.55,	3.404
+Camden,	Pine Hill,	5.003,	4.752
+Camden,	Pine Valley,	2.135,	2.132
+Camden,	Runnemede,	4.089,	3.856
+Camden,	Somerdale,	4.28,	3.833
+Camden,	Stratford,	4.427,	4.066
+Camden,	Tavistock,	1.764,	1.753
+Camden,	Voorhees,	4.09,	3.441
+Camden,	Waterford,	4.066,	3.672
+Camden,	Winslow,	3.438,	3.289
+Camden,	Woodlynne,	7.824,	6.95
+Cape	May,	Avalon,	0.526,	0.489
+Cape	May,	Cape May,	0.97,	0.894
+Cape	May,	Cape May	Point,	0.622,	0.558
+Cape	May,	Dennis,	1.745,	1.674
+Cape	May,	Lower,	1.783,	1.545
+Cape	May,	Middle,	1.823,	1.791
+Cape	May,	North	Wildwood,	1.351,	1.257
+Cape	May,	Ocean,	0.978,	0.881
+Cape	May,	Sea	Isle,	0.734,	0.636
+Cape	May,	Stone	Harbor,	0.61,	0.576
+Cape	May,	Upper,	1.856,	1.755
+Cape	May,	West Cape May,	1.319,	1.139
+Cape	May,	West Wildwood,	1.792,	1.583
+Cape	May,	Wildwood,	2.69,	2.517
+Cape	May,	Wildwood Crest,	1.289,	1.291
+Cape	May,	Woodbine,	1.632,	1.858
+Cumberland,	Bridgeton,	4.984,	4.395
+Cumberland,	Commercial,	2.46,	2.788
+Cumberland,	Deerfield,	3.731,	3.515
+Cumberland,	Downe,	2.222,	2.743
+Cumberland,	Fairfield,	2.605,	2.848
+Cumberland,	Greenwich,	3.588,	3.679
+Cumberland,	Hopewell,	3.402,	3.113
+Cumberland,	Lawrence,	2.885,	2.942
+Cumberland,	Maurice	River,	2.7,	2.821
+Cumberland,	Millville,	3.607,	3.317
+Cumberland,	Shiloh,	3.092,	3.05
+Cumberland,	Stow Creek,	3.226,	3.026
+Cumberland,	Upper	Deerfield,	3.221,	3.282
+Cumberland,	Vineland,	2.927,	2.797
+Essex,	Belleville,	3.743,	3.675
+Essex,	Bloomfield,	3.095,	3.237
+Essex,	Caldwell,	2.803,	2.501
+Essex,	Cedar	Grove,	2.424,	2.266
+Essex,	East	Orange,	5.47,	4.132
+Essex,	Essex	Fells,	2.038,	2.024
+Essex,	Fairfield,	1.933,	1.872
+Essex,	Glen	Ridge,	3.187,	2.918
+Essex,	Irvington,	5.976,	5.203
+Essex,	Livingston,	2.271,	2.302
+Essex,	Maplewood,	3.322,	2.957
+Essex,	Millburn,	1.926,	1.878
+Essex,	Montclair,	3.179,	2.841
+Essex,	Newark,	3.8,	3.067
+Essex,	North	Caldwell,	2.375,	2.111
+Essex,	Nutley,	3.682,	3.04
+Essex,	Orange,	5.607,	5.069
+Essex,	Roseland,	2.295,	2.143
+Essex,	South	Orange Village,	3.28,	2.971
+Essex,	Verona,	2.864,	2.689
+Essex,	West Caldwell,	2.612,	2.357
+Essex,	West Orange,	4.284,	3.667
+Gloucester,	Clayton,	3.957,	3.786
+Gloucester,	Deptford,	3.185,	3.116
+Gloucester,	East Greenwich,	3.025,	2.976
+Gloucester,	Elk,	3.681,	3.493
+Gloucester,	Franklin,	3.38,	3.121
+Gloucester,	Glassboro,	3.543,	3.293
+Gloucester,	Greenwich,	3.275,	2.941
+Gloucester,	Harrison,	2.991,	2.903
+Gloucester,	Logan,	2.175,	2.116
+Gloucester,	Mantua,	3.399,	3.136
+Gloucester,	Monroe,	3.637,	3.637
+Gloucester,	National	Park,	4.5,	4.332
+Gloucester,	Newfield,	3.722,	3.608
+Gloucester,	Paulsboro,	4.206,	4.209
+Gloucester,	Pitman,	4.43,	4.041
+Gloucester,	South	Harrison,	2.913,	2.763
+Gloucester,	Swedesboro,	4.06,	3.834
+Gloucester,	Washington,	3.242,	3.142
+Gloucester,	Wenonah,	4.213,	4.159
+Gloucester,	West Deptford,	3.411,	3.12
+Gloucester,	Westville,	4.662,	4.525
+Gloucester,	Woodbury,	4.938,	4.455
+Gloucester,	Woodbury Heights,	4.593,	4.26
+Gloucester,	Woolwich,	3.431,	3.423
+Hudson,	Bayonne,	2.566,	2.605
+Hudson,	East Newark,	2.607,	1.961
+Hudson,	Guttenberg,	3.861,	2.549
+Hudson,	Harrison,	2.28,	2.261
+Hudson,	Hoboken,	1.611,	1.065
+Hudson,	Jersey,	1.61,	1.401
+Hudson,	Kearny,	10.49,	2.622
+Hudson,	North	Bergen,	5.732,	2.209
+Hudson,	Secaucus,	3.736,	1.898
+Hudson,	Union,	7.301,	2.499
+Hudson,	Weehawken,	1.737,	1.744
+Hudson,	West New	York,	7.635,	2.078
+Hunterdon,	Alexandria,	2.667,	2.429
+Hunterdon,	Bethlehem,	2.995,	2.777
+Hunterdon,	Bloomsbury,	3.134,	2.899
+Hunterdon,	Califon,	3.505,	3.388
+Hunterdon,	Clinton	Town,	3.233,	3.058
+Hunterdon,	Clinton	Township,	2.695,	2.517
+Hunterdon,	Delaware,	2.583,	2.359
+Hunterdon,	East Amwell,	2.499,	2.189
+Hunterdon,	Flemington,	3.178,	3.133
+Hunterdon,	Franklin,	2.666,	2.565
+Hunterdon,	Frenchtown,	3.579,	3.108
+Hunterdon,	Glen Gardner,	3.434,	2.825
+Hunterdon,	Hampton,	3.84,	3.674
+Hunterdon,	High Bridge,	4.1,	3.831
+Hunterdon,	Holland,	2.865,	2.594
+Hunterdon,	Kingwood,	2.355,	2.317
+Hunterdon,	Lambertville,	2.072,	2.025
+Hunterdon,	Lebanon	Borough,	2.5,	2.46
+Hunterdon,	Lebanon	Township,	2.381,	2.391
+Hunterdon,	Milford,	3.524,	3.199
+Hunterdon,	Raritan,	2.571,	2.464
+Hunterdon,	Readington,	3.041,	2.45
+Hunterdon,	Stockton,	2.076,	2.075
+Hunterdon,	Tewksbury,	2.218,	2.147
+Hunterdon,	Union,	2.932,	2.388
+Hunterdon,	West Amwell,	2.27,	2.395
+Mercer,	East Windsor,	3.286,	3.041
+Mercer,	Ewing,	3.459,	3.482
+Mercer,	Hamilton,	2.903,	2.736
+Mercer,	Hightstown,	4.413,	3.756
+Mercer,	Hopewell Borough,	3.027,	2.856
+Mercer,	Hopewell Township,	2.883,	2.706
+Mercer,	Lawrence,	2.902,	2.725
+Mercer,	Pennington,	2.749,	2.698
+Mercer,	Princeton,	2.42,	2.004
+Mercer,	Robbinsville,	2.956,	2.745
+Mercer,	Trenton,	5.535,	5.123
+Mercer,	West Windsor,	2.804,	2.49
+Middlesex,	Carteret,	2.876,	2.559
+Middlesex,	Cranbury,	1.78,	1.715
+Middlesex,	Dunellen,	3.248,	3.262
+Middlesex,	East Brunswick,	11.13,	2.78
+Middlesex,	Edison,	5.629,	2.126
+Middlesex,	Helmetta,	3.062,	2.616
+Middlesex,	Highland Park,	8.409,	3.467
+Middlesex,	Jamesburg,	6.189,	3.357
+Middlesex,	Metuchen,	6.143,	2.67
+Middlesex,	Middlesex,	9.422,	2.997
+Middlesex,	Milltown,	6.308,	2.898
+Middlesex,	Monroe,	2.513,	2.052
+Middlesex,	New	Brunswick,	2.47,	2.373
+Middlesex,	North	Brunswick,	5.786,	3.048
+Middlesex,	Old	Bridge,	5.032,	2.102
+Middlesex,	Perth	Amboy,	2.978,	2.823
+Middlesex,	Piscataway,	2.269,	2.177
+Middlesex,	Plainsboro,	2.347,	2.317
+Middlesex,	Sayreville,	5.345,	2.432
+Middlesex,	South	Amboy,	2.817,	2.651
+Middlesex,	South	Brunswick,	5.04,	1.984
+Middlesex,	South	Plainfield,	6.346,	2.096
+Middlesex,	South	River,	2.287,	2.383
+Middlesex,	Spotswood,	3.399,	2.95
+Middlesex,	Woodbridge,	10.667,	2.876
+Monmouth,	Aberdeen,	2.536,	2.437
+Monmouth,	Allenhurst,	0.791,	0.678
+Monmouth,	Allentown,	2.951,	2.885
+Monmouth,	Asbury Park,	1.575,	1.659
+Monmouth,	Atlantic Highlands,	1.988,	1.96
+Monmouth,	Avon By The	Sea,	1.2,	1.005
+Monmouth,	Belmar,	1.345,	1.247
+Monmouth,	Bradley	Beach,	1.222,	1.244
+Monmouth,	Brielle,	1.637,	1.617
+Monmouth,	Colts	Neckship,	1.764,	1.728
+Monmouth,	Deal,	0.714,	0.619
+Monmouth,	Eatontown,	2.28,	2.208
+Monmouth,	Englishtown,	2.226,	2.224
+Monmouth,	Fair Haven,	1.843,	1.865
+Monmouth,	Farmingdale,	2.269,	2.262
+Monmouth,	Freehold Borough,	2.662,	2.627
+Monmouth,	Freehold Township,	2.13,	2.119
+Monmouth,	Hazlet,	2.502,	2.528
+Monmouth,	Highlands,	2.484,	2.561
+Monmouth,	Holmdel,	2.039,	2.008
+Monmouth,	Howell,	2.24,	2.149
+Monmouth,	Interlaken,	1.208,	1.143
+Monmouth,	Keansburg,	4.007,	3.183
+Monmouth,	Keyport,	2.543,	2.561
+Monmouth,	Little Silver,	2.027,	1.966
+Monmouth,	Loch Arbour	Village,	0.704,	0.981
+Monmouth,	Long Branch,	2.09,	2.005
+Monmouth,	Manalapan,	2.008,	1.924
+Monmouth,	Manasquan,	1.58,	1.328
+Monmouth,	Marlboro,	2.263,	2.003
+Monmouth,	Matawan,	2.736,	2.694
+Monmouth,	Middletown,	2.138,	2.114
+Monmouth,	Millstone,	2.28,	2.138
+Monmouth,	Monmouth Beach,	1.226,	1.199
+Monmouth,	Neptune	Township,	2.019,	2.008
+Monmouth,	Neptune	City Borough,	2.291,	2.191
+Monmouth,	Ocean,	1.94,	1.965
+Monmouth,	Oceanport,	1.828,	1.839
+Monmouth,	Red	Bank,	2.272,	2.156
+Monmouth,	Roosevelt,	3.074,	2.919
+Monmouth,	Rumson,	1.433,	1.43
+Monmouth,	Sea	Bright,	1.284,	1.183
+Monmouth,	Sea	Girt,	0.664,	0.64
+Monmouth,	Shrewsbury Borough,	2.123,	2.106
+Monmouth,	Shrewsbury Township,	2.465,	2.994
+Monmouth,	South	Belmar,	1.426,	1.484
+Monmouth,	Spring Lake,	0.618,	0.602
+Monmouth,	Spring Lake Heights,	1.358,	1.368
+Monmouth,	Tinton Falls,	1.937,	1.888
+Monmouth,	Union	Beach,	2.516,	2.533
+Monmouth,	Upper	Freehold,	2.414,	2.304
+Monmouth,	Wall,	1.92,	1.738
+Monmouth,	West Long	Branch,	2.055,	1.947
+Morris,	Boonton	Town,	2.99,	2.722
+Morris,	Boonton	Township,	2.347,	2.105
+Morris,	Butler,	3.736,	2.783
+Morris,	Chatham	Borough,	2.119,	1.699
+Morris,	Chatham	Township,	1.893,	1.674
+Morris,	Chester	Borough,	2.703,	2.769
+Morris,	Chester	Township,	2.373,	2.302
+Morris,	Denville,	2.512,	2.327
+Morris,	Dover,	2.845,	2.562
+Morris,	East Hanover,	2.39,	1.845
+Morris,	Florham	Park,	1.567,	1.514
+Morris,	Hanover,	1.81,	1.683
+Morris,	Harding,	1.094,	1.03
+Morris,	Jefferson,	2.662,	2.711
+Morris,	Kinnelon,	2.647,	2.608
+Morris,	Lincoln	Park,	2.823,	2.655
+Morris,	Madison,	2.005,	1.611
+Morris,	Mendham	Borough,	2.301,	2.139
+Morris,	Mendham	Township,	2.199,	2.179
+Morris,	Mine Hill,	2.67,	2.498
+Morris,	Montville,	2.431,	2.2
+Morris,	Morris,	1.862,	1.75
+Morris,	Morris Plains,	2.388,	2.157
+Morris,	Morristown,	2.883,	2.118
+Morris,	Mountain	Lakes,	2.802,	2.571
+Morris,	Mount	Arlington,	2.69,	2.286
+Morris,	Mount	Olive,	3.215,	3.007
+Morris,	Netcong,	3.076,	3.266
+Morris,	Parsippany Troy Hills,	3.03,	2.514
+Morris,	Long	Hill,	2.423,	2.303
+Morris,	Pequannock,	2.465,	2.047
+Morris,	Randolph,	2.625,	2.483
+Morris,	Riverdale,	1.908,	1.826
+Morris,	Rockaway Borough,	3.146,	3
+Morris,	Rockaway Township,	2.841,	2.638
+Morris,	Roxbury,	2.629,	2.662
+Morris,	Victory	Gardens,	2.852,	2.387
+Morris,	Washington,	2.639,	2.577
+Morris,	Wharton,	2.947,	2.871
+Ocean,	Barnegat,	2.791,	2.603
+Ocean,	Barnegat Light,	0.903,	0.872
+Ocean,	Bay	Head, 0.876,	0.823
+Ocean,	Beach	Haven,	1.121,	1.021
+Ocean,	Beachwood,	2.531,	2.214
+Ocean,	Berkeley,	2.229,	1.994
+Ocean,	Brick,	2.296,	2.085
+Ocean,	Dover,	2.426,	1.921
+Ocean,	Eagleswood,	2.712,	2.647
+Ocean,	Harvey	Cedars,	0.928,	0.934
+Ocean,	Island	Heights,	2.006,	1.981
+Ocean,	Jackson,	2.368,	2.054
+Ocean,	Lacey,	2.154,	2.135
+Ocean,	Lakehurst,	3.183,	2.818
+Ocean,	Lakewood,	2.205,	1.889
+Ocean,	Lavallette,	0.821,	0.828
+Ocean,	Little Egg Harbor,	2.585,	2.45
+Ocean,	Long	Beach,	0.994,	0.878
+Ocean,	Manchester,	2.11,	2.13
+Ocean,	Mantoloking,	0.712,	0.668
+Ocean,	Ocean,	2.109,	1.887
+Ocean,	Ocean	Gate,	2.683,	2.347
+Ocean,	Pine	Beach,	2.5,	2.088
+Ocean,	Plumsted,	2.38,	2.056
+Ocean,	Point	Pleasant,	2.086,	1.896
+Ocean,	Point	Pleasant Beach,	1.581,	1.441
+Ocean,	Seaside	Heights,	2.428,	2.239
+Ocean,	Seaside	Park,	1.503,	1.46
+Ocean,	Ship	Bottom,	1.057,	0.965
+Ocean,	South	Toms River,	2.985,	2.862
+Ocean,	Stafford,	2.325,	2.068
+Ocean,	Surf,	0.873,	0.898
+Ocean,	Tuckerton,	2.62,	2.56
+Passaic,	Bloomingdale,	4.362,	3.728
+Passaic,	Clifton,	5.493,	2.766
+Passaic,	Haledon,	4.835,	3.912
+Passaic,	Hawthorne,	2.851,	2.84
+Passaic,	Little Falls,	3.183,	2.872
+Passaic,	North	Haledon,	2.888,	2.446
+Passaic,	Passaic,	3.731,	2.735
+Passaic,	Paterson,	4.175,	3.528
+Passaic,	Pompton	Lakes,	3.757,	3.541
+Passaic,	Prospect	Park,	5.23,	4.016
+Passaic,	Ringwood,	3.868,	3.206
+Passaic,	Totowa,	2.422,	2.348
+Passaic,	Wanaque,	4.003,	3.276
+Passaic,	Wayne,	5.623,	2.691
+Passaic,	West Milford,	3.745,	3.268
+Passaic,	West Paterson,	3.186,	2.844
+Salem,	Allowayship,	3.099,	2.964
+Salem,	Carneys	Pointship,	3.347,	3.379
+Salem,	Elmer,	3.777,	3.462
+Salem,	Elsinboro,	2.822,	3.157
+Salem,	Lower	Alloway	Creek,	1.51,	1.217
+Salem,	Mannington,	3.18,	3.162
+Salem,	Oldmans,	2.712,	2.573
+Salem,	Penns	Grove,	5.009,	5.209
+Salem,	Pennsville,	4.483,	4.296
+Salem,	Pilesgrove,	3.249,	3.306
+Salem,	Pittsgrove,	3.634,	3.326
+Salem,	Quinton, 3.089,	3.13
+Salem,	Salem,	7.112,	6.296
+Salem,	Upper	Pittsgrove,	2.723,	2.746
+Salem,	Woodstown,	3.739,	3.773
+Somerset,	Bedminster,	1.383,	1.375
+Somerset,	Bernards,	2.094,	2.022
+Somerset,	Bernardsville,	2.104,	2.063
+Somerset,	Bound	Brook,	3.087,	3.039
+Somerset,	Branchburg,	2.143,	2.083
+Somerset,	Bridgewater,	2.075,	2.034
+Somerset,	Far	Hills,	1.357,	1.342
+Somerset,	Franklin,	2.197,	2.172
+Somerset,	Green	Brook,	2.622,	2.583
+Somerset,	Hillsborough,	2.34,	2.266
+Somerset,	Manville,	3.149,	3.069
+Somerset,	Millstone,	2.579,	2.393
+Somerset,	Montgomery,	3.119,	2.502
+Somerset,	North	Plainfield,	3.912,	3.351
+Somerset,	Peapack	Gladstone,	1.879,	1.853
+Somerset,	Raritan,	2.559,	2.39
+Somerset,	Rocky	Hill,	2.382,	2.34
+Somerset,	Somerville,	3.66,	3.193
+Somerset,	South	Bound	Brook,	3.317,	2.885
+Somerset,	Warren,	2.07,	2.051
+Somerset,	Watchung,	2.128,	2.109
+Sussex,	Andover	Borough,	3.008,	2.956
+Sussex,	Andover	Township,	3.737,	3.393
+Sussex,	Branchville,	2.292,	2.255
+Sussex,	Byram,	3.574,	3.323
+Sussex,	Frankford,	2.652,	2.404
+Sussex,	Franklin,	3.975,	3.725
+Sussex,	Fredon,	2.975,	3
+Sussex,	Green,	3.54,	3.235
+Sussex,	Hamburg,	4.284,	3.879
+Sussex,	Hampton,	2.986,	2.653
+Sussex,	Hardyston,	2.895,	2.697
+Sussex,	Hopatcong,	3.337,	2.813
+Sussex,	Lafayette,	2.863,	2.611
+Sussex,	Montague,	2.919,	2.692
+Sussex,	Newton,	4.423,	3.79
+Sussex,	Ogdensburg,	3.713,	3.632
+Sussex,	Sandyston,	2.719,	2.433
+Sussex,	Sparta,	3.4,	3.095
+Sussex,	Stanhope,	4.24,	3.76
+Sussex,	Stillwater,	3.209,	2.805
+Sussex,	Sussex,	3.258,	3.067
+Sussex,	Vernon,	3.13,	3.062
+Sussex,	Walpack,	0.752,	0.579
+Sussex,	Wantage,	2.767,	2.644
+Union,	Berkeley	Heights,	4.198,	2.19
+Union,	Clark,	8.745,	2.342
+Union,	Cranford,	6.562,	2.296
+Union,	Elizabeth,	29.271,	3.099
+Union,	Fanwood,	2.697,	2.686
+Union,	Garwood,	2.517,	2.521
+Union,	Hillside,	7.841,	3.467
+Union,	Kenilworth,	5.124,	2.615
+Union,	Linden,	6.912,	2.972
+Union,	Mountainside,	7.474,	2.02
+Union,	New	Providence,	4.9,	2.338
+Union,	Plainfield,	8.361,	3.625
+Union,	Rahway,	6.925,	3.315
+Union,	Roselle,	8.458,	4.195
+Union,	Roselle	Park,	4.086,	3.454
+Union,	Scotch	Plains,	11.212,	2.517
+Union,	Springfield,	7.329,	2.823
+Union,	Summit,	4.36,	1.836
+Union,	Union,	20.002,	2.988
+Union,	Westfield,	2.158,	2.194
+Union,	Winfield,	20.397,	20.388
+Warren,	Allamuchy,	2.953,	2.536
+Warren,	Alpha,	3.192,	3.103
+Warren,	Belvidere,	5.695,	3.739
+Warren,	Blairstown,	2.472,	2.409
+Warren,	Franklin,	3.002,	3.075
+Warren,	Frelinghuysen,	2.502,	2.54
+Warren,	Greenwich,	3.332,	2.815
+Warren,	Hackettstown,	3.129,	3.105
+Warren,	Hardwick,	3.24,	2.558
+Warren,	Harmony,	2.445,	2.15
+Warren,	Hope,	3.013,	2.721
+Warren,	Independence,	3.372,	2.869
+Warren,	Knowlton,	3.599,	2.82
+Warren,	Liberty,	3.168,	2.859
+Warren,	Lopatcong,	2.955,	2.922
+Warren,	Mansfield,	3.478,	3.118
+Warren,	Oxford,	4.172,	3.666
+Warren,	Phillipsburg,	4.042,	3.841
+Warren,	Pohatcong,	3.964,	3.722
+Warren,	Washington Borough,	5.161,	4.221
+Warren,	Washington Township,	3.628,	3.442
+Warren,	White,	2.182,	2.126
+
+

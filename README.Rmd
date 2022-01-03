@@ -1,0 +1,21 @@
+---
+title: "README"
+output: html_document
+---
+
+## taxPredict
+
+taxPredict should predict the taxes on a home given a specific township and the amount paid for the house.
+
+In broad strokes, it will
+  have df$c(assessment, price, naive_Sales_Ratio, adj_Sales_Ratio, county, township code, township name, class) <- create in advance
+  take as an input a choice of either naive or adjusted sales ratio
+  calculate a predicted sales ratio SR_hat for a given price by:
+    using lm to model the way sales ratio varies by price within the township
+    using the mean sales ratio if there are too few data points for lm
+    using lm with county-wide data instead if there are no data points (and print a notice)
+  predicting an assessment = SR_hat * input$price
+  predicting an annual tax = assessment * twpTaxRate 
+  And adjusting by average annual tax increase (calculated separately)
+
+2020 property tax rates from: https://joeshimkus.com/NJ-Tax-Rates.aspx

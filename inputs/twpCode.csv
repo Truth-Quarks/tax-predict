@@ -1,0 +1,567 @@
+Code,Municipality,County
+1301,Aberdeen Twp. ,Monmouth
+0101,Absecon City ,Atlantic
+1001,Alexandria Twp. ,Hunterdon
+2101,Allamuchy Twp. ,Warren
+0201,Allendale Bor. ,Bergen
+1302,Allenhurst Bor. ,Monmouth
+1303,Allentown Bor. ,Monmouth
+1701,Alloway Twp. ,Salem
+2102,Alpha Bor. ,Warren
+0202,Alpine Bor. ,Bergen
+1901,Andover Bor. ,Sussex
+1902,Andover Twp. ,Sussex
+1304,Asbury Park City ,Monmouth
+0102,Atlantic City ,Atlantic
+1305,Atlantic Highlands Bor. ,Monmouth
+0401,Audubon Bor. ,Camden
+0402,Audubon Park Bor. ,Camden
+0501,Avalon Bor. ,Cape May
+1306,Avon-by-the-Sea Bor. ,Monmouth
+1502,Barnegat Light Bor. ,Ocean
+1501,Barnegat Twp. ,Ocean
+0403,Barrington Bor. ,Camden
+0301,Bass River Twp. ,Burlington
+1503,Bay Head Bor. ,Ocean
+0901,Bayonne City ,Hudson
+1504,Beach Haven Bor. ,Ocean
+1505,Beachwood Bor. ,Ocean
+1801,Bedminster Twp. ,Somerset
+0701,Belleville Twp. ,Essex
+0404,Bellmawr Bor. ,Camden
+1307,Belmar Bor. ,Monmouth
+2103,Belvidere Town ,Warren
+0203,Bergenfield Bor. ,Bergen
+2001,Berkeley Heights Twp. ,Union
+1506,Berkeley Twp. ,Ocean
+0405,Berlin Bor. ,Camden
+0406,Berlin Twp. ,Camden
+1802,Bernards Twp. ,Somerset
+1803,Bernardsville Bor. ,Somerset
+1002,Bethlehem Twp. ,Hunterdon
+0302,Beverly City ,Burlington
+2104,Blairstown Twp. ,Warren
+0702,Bloomfield Twp. ,Essex
+1601,Bloomingdale Bor. ,Passaic
+1003,Bloomsbury Bor. ,Hunterdon
+0204,Bogota Bor. ,Bergen
+1401,Boonton Town ,Morris
+1402,Boonton Twp. ,Morris
+0303,Bordentown City,Burlington
+0304,Bordentown Twp. ,Burlington
+1804,Bound Brook Bor. ,Somerset
+1308,Bradley Beach Bor. ,Monmouth
+1805,Branchburg Twp. ,Somerset
+1903,Branchville Bor. ,Sussex
+1507,Brick Twp. ,Ocean
+0601,Bridgeton City ,Cumberland
+1806,Bridgewater Twp. ,Somerset
+1309,Brielle Bor. ,Monmouth
+0103,Brigantine City ,Atlantic
+0407,Brooklawn Bor. ,Camden
+0104,Buena Bor. ,Atlantic
+0105,Buena Vista Twp. ,Atlantic
+0305,Burlington City ,Burlington
+0306,Burlington Twp. ,Burlington
+1403,Butler Bor. ,Morris
+1904,Byram Twp. ,Sussex
+0703,Caldwell Bor. Twp. ,Essex
+1004,Califon Bor. ,Hunterdon
+0408,Camden City ,Camden
+0502,Cape May City ,Cape May
+0503,Cape May Point Bor.,Cape May
+0205,Carlstadt Bor. ,Bergen
+1702,Carneys Point Twp. ,Salem
+1201,Carteret Bor. ,Middlesex
+0704,Cedar Grove Twp. ,Essex
+1404,Chatham Bor. ,Morris
+1405,Chatham Twp. ,Morris
+0409,Cherry Hill Twp. ,Camden
+0410,Chesilhurst Bor. ,Camden
+1406,Chester Bor. ,Morris
+1407,Chester Twp.,Morris
+0307,Chesterfield Twp. ,Burlington
+0308,Cinnaminson Twp. ,Burlington
+2002,Clark Twp. ,Union
+0801,Clayton Bor. ,Gloucester
+0411,Clementon Bor. ,Camden
+0206,Cliffside Park Bor. ,Bergen
+1602,Clifton City ,Passaic
+1005,Clinton Town ,Hunterdon
+1006,Clinton Twp. ,Hunterdon
+0207,Closter Bor. ,Bergen
+0412,Collingswood Bor. ,Camden
+1310,Colts Neck Twp. ,Monmouth
+0602,Commercial Twp. ,Cumberland
+0106,Corbin City ,Atlantic
+1202,Cranbury Twp. ,Middlesex
+2003,Cranford Twp. ,Union
+0208,Cresskill Bor. ,Bergen
+1311,Deal Bor. ,Monmouth
+0603,Deerfield Twp. ,Cumberland
+0309,Delanco Twp. ,Burlington
+1007,Delaware Twp. ,Hunterdon
+0310,Delran Twp. ,Burlington
+0209,Demarest Bor. ,Bergen
+0504,Dennis Twp. ,Cape May
+1408,Denville Twp. ,Morris
+0802,Deptford Twp. ,Gloucester
+1409,Dover Town ,Morris
+0604,Downe Twp. ,Cumberland
+0210,Dumont Bor. ,Bergen
+1203,Dunellen Bor. ,Middlesex
+1509,Eagleswood Twp. ,Ocean
+1008,East Amwell Twp. ,Hunterdon
+1204,East Brunswick Twp. ,Middlesex
+0803,East Greenwich Twp. ,Gloucester
+1410,East Hanover Twp. ,Morris
+0902,East Newark Bor. ,Hudson
+0705,East Orange City ,Essex
+0212,East Rutherford Bor. ,Bergen
+1101,East Windsor Twp. ,Mercer
+0311,Eastampton Twp. ,Burlington
+1312,Eatontown Bor. ,Monmouth
+0213,Edgewater Bor. ,Bergen
+0312,Edgewater Park Twp. ,Burlington
+1205,Edison Twp. ,Middlesex
+0107,Egg Harbor City ,Atlantic
+0108,Egg Harbor Twp. ,Atlantic
+2004,Elizabeth City ,Union
+0804,Elk Twp. ,Gloucester
+1703,Elmer Bor. ,Salem
+0211,Elmwood Park Bor. ,Bergen
+1704,Elsinboro Twp. ,Salem
+0214,Emerson Bor. ,Bergen
+0215,Englewood City ,Bergen
+0216,Englewood Cliffs Bor. ,Bergen
+1313,Englishtown Bor. ,Monmouth
+0706,Essex Fells Twp. ,Essex
+0109,Estell Manor City ,Atlantic
+0313,Evesham Twp. ,Burlington
+1102,Ewing Twp.,Mercer
+1314,Fair Haven Bor. ,Monmouth
+0217,Fair Lawn Bor. ,Bergen
+0605,Fairfield Twp. ,Cumberland
+0707,Fairfield Twp. ,Essex
+0218,Fairview Bor. ,Bergen
+2005,Fanwood Bor. ,Union
+1807,Far Hills Bor. ,Somerset
+1315,Farmingdale Bor. ,Monmouth
+0314,Fieldsboro Bor. ,Burlington
+1009,Flemington Bor. ,Hunterdon
+0315,Florence Twp. ,Burlington
+1411,Florham Park Bor. ,Morris
+0110,Folsom Bor. ,Atlantic
+0219,Fort Lee Bor. ,Bergen
+1905,Frankford Twp. ,Sussex
+1906,Franklin Bor. ,Sussex
+0220,Franklin Lakes Bor. ,Bergen
+0805,Franklin Twp. ,Gloucester
+1010,Franklin Twp. ,Hunterdon
+1808,Franklin Twp. ,Somerset
+2105,Franklin Twp. ,Warren
+1907,Fredon Twp. ,Sussex
+1316,Freehold Bor. ,Monmouth
+1317,Freehold Twp. ,Monmouth
+2106,Frelinghuysen Twp. ,Warren
+1011,Frenchtown Bor. ,Hunterdon
+0111,Galloway Twp. ,Atlantic
+0221,Garfield City ,Bergen
+2006,Garwood Bor. ,Union
+0413,Gibbsboro Bor. ,Camden
+0806,Glassboro Bor. ,Gloucester
+1012,Glen Gardner Bor. ,Hunterdon
+0708,Glen Ridge Bor. Twp.,Essex
+0222,Glen Rock Bor. ,Bergen
+0414,Gloucester City ,Camden
+0415,Gloucester Twp. ,Camden
+1809,Green Brook Twp. ,Somerset
+1908,Green Twp. ,Sussex
+0606,Greenwich Twp.,Cumberland
+0807,Greenwich Twp. ,Gloucester
+2107,Greenwich Twp. ,Warren
+0903,Guttenberg Town ,Hudson
+0223,Hackensack City ,Bergen
+2108,Hackettstown Town ,Warren
+0418,Haddon Heights Bor. ,Camden
+0416,Haddon Twp. ,Camden
+0417,Haddonfield Bor. ,Camden
+0316,Hainesport Twp. ,Burlington
+1603,Haledon Bor. ,Passaic
+1909,Hamburg Bor. ,Sussex
+0112,Hamilton Twp. ,Atlantic
+1103,Hamilton Twp. ,Mercer
+0113,Hammonton Town ,Atlantic
+1013,Hampton Bor. ,Hunterdon
+1910,Hampton Twp. ,Sussex
+1412,Hanover Twp. ,Morris
+1413,Harding Twp. ,Morris
+2109,Hardwick Twp. ,Warren
+1911,Hardyston Twp. ,Sussex
+2110,Harmony Twp. ,Warren
+0224,Harrington Park Bor. ,Bergen
+0904,Harrison Town ,Hudson
+0808,Harrison Twp. ,Gloucester
+1510,Harvey Cedars Bor. ,Ocean
+0225,Hasbrouck Heights Bor. ,Bergen
+0226,Haworth Bor. ,Bergen
+1604,Hawthorne Bor. ,Passaic
+1318,Hazlet Twp. ,Monmouth
+1206,Helmetta Bor. ,Middlesex
+1014,High Bridge Bor. ,Hunterdon
+1207,Highland Park Bor. ,Middlesex
+1319,Highlands Bor. ,Monmouth
+1104,Hightstown Bor. ,Mercer
+1810,Hillsborough. Twp. ,Somerset
+0227,Hillsdale Bor. ,Bergen
+2007,Hillside Twp. ,Union
+0419,Hi-Nella Bor. ,Camden
+0228,Ho Ho Kus Bor.,Bergen
+0905,Hoboken City ,Hudson
+1015,Holland Twp. ,Hunterdon
+1320,Holmdel Twp. ,Monmouth
+1912,Hopatcong Bor. ,Sussex
+2111,Hope Twp. ,Warren
+1105,Hopewell Bor. ,Mercer
+0607,Hopewell Twp. ,Cumberland
+1106,Hopewell Twp. ,Mercer
+1321,Howell Twp. ,Monmouth
+2112,Independence Twp. ,Warren
+1322,Interlaken Bor. ,Monmouth
+0709,Irvington Twp. ,Essex
+1511,Island Heights Bor. ,Ocean
+1512,Jackson Twp. ,Ocean
+1208,Jamesburg Bor. ,Middlesex
+1414,Jefferson Twp. ,Morris
+0906,Jersey City ,Hudson
+1323,Keansburg Bor. ,Monmouth
+0907,Kearny Town ,Hudson
+2008,Kenilworth Bor. ,Union
+1324,Keyport Bor. ,Monmouth
+1016,Kingwood Twp. ,Hunterdon
+1415,Kinnelon Bor. ,Morris
+2113,Knowlton Twp. ,Warren
+1513,Lacey Twp. ,Ocean
+1913,Lafayette Twp. ,Sussex
+1346,Lake Como Bor. ,Monmouth
+1514,Lakehurst Bor. ,Ocean
+1515,Lakewood Twp. ,Ocean
+1017,Lambertville City ,Hunterdon
+0420,Laurel Springs Bor. ,Camden
+1516,Lavallette Bor. ,Ocean
+0421,Lawnside Bor. ,Camden
+0608,Lawrence Twp. ,Cumberland
+1107,Lawrence Twp. ,Mercer
+1018,Lebanon Bor. ,Hunterdon
+1019,Lebanon Twp. ,Hunterdon
+0229,Leonia Bor. ,Bergen
+2114,Liberty Twp. ,Warren
+1416,Lincoln Park Bor. ,Morris
+2009,Linden City ,Union
+0422,Lindenwold Bor. ,Camden
+0114,Linwood City ,Atlantic
+1517,Little Egg Harbor Twp.,Ocean
+1605,Little Falls Twp. ,Passaic
+0230,Little Ferry Bor. ,Bergen
+1325,Little Silver Bor. ,Monmouth
+0710,Livingston Twp. ,Essex
+1326,Loch Arbour Village ,Monmouth
+0231,Lodi Bor. ,Bergen
+0809,Logan Twp. ,Gloucester
+1518,Long Beach Twp. ,Ocean
+1327,Long Branch City ,Monmouth
+1430,Long Hill Twp. ,Morris
+0115,Longport Bor. ,Atlantic
+2115,Lopatcong Twp. ,Warren
+1705,Lower Alloways Crk. Twp.,Salem
+0505,Lower Twp. ,Cape May
+0317,Lumberton Twp. ,Burlington
+0232,Lyndhurst Twp. ,Bergen
+1417,Madison Bor. ,Morris
+0423,Magnolia Bor. ,Camden
+0233,Mahwah Twp. ,Bergen
+1328,Manalapan Twp. ,Monmouth
+1329,Manasquan Bor. ,Monmouth
+1519,Manchester Twp. ,Ocean
+1706,Mannington Twp. ,Salem
+0318,Mansfield Twp. ,Burlington
+2116,Mansfield Twp. ,Warren
+1520,Mantoloking Bor. ,Ocean
+0810,Mantua Twp. ,Gloucester
+1811,Manville Bor. ,Somerset
+0319,Maple Shade Twp. ,Burlington
+0711,Maplewood Twp. ,Essex
+0116,Margate City ,Atlantic
+1330,Marlboro Twp. ,Monmouth
+1331,Matawan Bor. ,Monmouth
+0609,Maurice River Twp. ,Cumberland
+0234,Maywood Bor. ,Bergen
+0321,Medford Lakes Bor. ,Burlington
+0320,Medford Twp. ,Burlington
+1418,Mendham Bor. ,Morris
+1419,Mendham Twp. ,Morris
+0424,Merchantville Bor. ,Camden
+1209,Metuchen Bor. ,Middlesex
+0506,Middle Twp. ,Cape May
+1210,Middlesex Bor. ,Middlesex
+1332,Middletown Twp. ,Monmouth
+0235,Midland Park Bor. ,Bergen
+1020,Milford Bor. ,Hunterdon
+0712,Millburn Twp. ,Essex
+1812,Millstone Bor. ,Somerset
+1333,Millstone Twp. ,Monmouth
+1211,Milltown Bor. ,Middlesex
+0610,Millville City ,Cumberland
+1420,Mine Hill Twp. ,Morris
+1334,Monmouth Beach Bor. ,Monmouth
+0811,Monroe Twp. ,Gloucester
+1212,Monroe Twp. ,Middlesex
+1914,Montague Twp. ,Sussex
+0713,Montclair Twp. ,Essex
+1813,Montgomery Twp. ,Somerset
+0236,Montvale Bor. ,Bergen
+1421,Montville Twp. ,Morris
+0237,Moonachie Bor. ,Bergen
+0322,Moorestown Twp. ,Burlington
+1423,Morris Plains Bor. ,Morris
+1422,Morris Twp. ,Morris
+1424,Morristown Town ,Morris
+0425,Mount Ephraim Bor. ,Camden
+0323,Mount Holly Twp. ,Burlington
+0324,Mount Laurel Twp. ,Burlington
+1425,Mountain Lakes Bor. ,Morris
+2010,Mountainside Bor. ,Union
+1426,Mt. Arlington Bor. ,Morris
+1427,Mt. Olive Twp. ,Morris
+0117,Mullica Twp. ,Atlantic
+0812,National Park Bor. ,Gloucester
+1336,Neptune City Bor. ,Monmouth
+1335,Neptune Twp. ,Monmouth
+1428,Netcong Bor. ,Morris
+1213,New Brunswick City ,Middlesex
+0325,New Hanover Twp. ,Burlington
+0238,New Milford Bor. ,Bergen
+2011,New Providence Bor. ,Union
+0714,Newark City ,Essex
+0813,Newfield Bor. ,Gloucester
+1915,Newton Town ,Sussex
+0239,North Arlington Bor. ,Bergen
+0908,North Bergen Twp. ,Hudson
+1214,North Brunswick Twp. ,Middlesex
+0715,North Caldwell Bor. ,Essex
+1606,North Haledon Bor. ,Passaic
+0326,North Hanover Twp. ,Burlington
+1814,North Plainfield Bor. ,Somerset
+0507,North Wildwood City ,Cape May
+0118,Northfield City ,Atlantic
+0240,Northvale Bor. ,Bergen
+0241,Norwood Bor. ,Bergen
+0716,Nutley Twp. ,Essex
+0242,Oakland Bor. ,Bergen
+0426,Oaklyn Bor. ,Camden
+0508,Ocean City ,Cape May
+1522,Ocean Gate Bor. ,Ocean
+1337,Ocean Twp. ,Monmouth
+1521,Ocean Twp. ,Ocean
+1338,Oceanport Bor. ,Monmouth
+1916,Ogdensburg Bor. ,Sussex
+1215,Old Bridge Twp. ,Middlesex
+0243,Old Tappan Bor. ,Bergen
+1707,Oldmans Twp. ,Salem
+0244,Oradell Bor. ,Bergen
+0717,Orange City ,Essex
+2117,Oxford Twp. ,Warren
+0245,Palisades Park Bor. ,Bergen
+0327,Palmyra Bor. ,Burlington
+0246,Paramus Bor. ,Bergen
+0247,Park Ridge Bor. ,Bergen
+1429,Parsippany-Troy Hills Twp. ,Morris
+1607,Passaic City ,Passaic
+1608,Paterson City ,Passaic
+0814,Paulsboro Bor. ,Gloucester
+1815,Peapack & Gladstone Bor.,Somerset
+0328,Pemberton Bor. ,Burlington
+0329,Pemberton Twp. ,Burlington
+1108,Pennington Bor. ,Mercer
+1708,Penns Grove Bor. ,Salem
+0427,Pennsauken Twp. ,Camden
+1709,Pennsville Twp. ,Salem
+1431,Pequannock Twp. ,Morris
+1216,Perth Amboy City ,Middlesex
+2119,Phillipsburg Town ,Warren
+1710,Pilesgrove Twp. ,Salem
+1523,Pine Beach Bor. ,Ocean
+0428,Pine Hill Bor. ,Camden
+0429,Pine Valley Bor. ,Camden
+1217,Piscataway Twp. ,Middlesex
+0815,Pitman Bor. ,Gloucester
+1711,Pittsgrove Twp. ,Salem
+2012,Plainfield City ,Union
+1218,Plainsboro Twp. ,Middlesex
+0119,Pleasantville City ,Atlantic
+1524,Plumsted Twp. ,Ocean
+2120,Pohatcong Twp. ,Warren
+1525,Point Pleasant Bor. ,Ocean
+1609,Pompton Lakes Bor. ,Passaic
+0120,Port Republic City ,Atlantic
+1109,Princeton Bor. ,Mercer
+1110,Princeton Twp. ,Mercer
+1610,Prospect Park Bor. ,Passaic
+1526,Pt. Pleasant Beach Bor.,Ocean
+1712,Quinton Twp. ,Salem
+2013,Rahway City ,Union
+0248,Ramsey Bor. ,Bergen
+1432,Randolph Twp. ,Morris
+1816,Raritan Bor. ,Somerset
+1021,Raritan Twp. ,Hunterdon
+1022,Readington Twp. ,Hunterdon
+1339,Red Bank Bor. ,Monmouth
+0249,Ridgefield Bor. ,Bergen
+0250,Ridgefield Park Village ,Bergen
+0251,Ridgewood Village ,Bergen
+1611,Ringwood Bor. ,Passaic
+0252,River Edge Bor. ,Bergen
+0253,River Vale Twp. ,Bergen
+1433,Riverdale Bor. ,Morris
+0330,Riverside Twp. ,Burlington
+0331,Riverton Bor. ,Burlington
+1112,Robbinsville Twp. ,Mercer
+0254,Rochelle Park Twp. ,Bergen
+1434,Rockaway Bor. ,Morris
+1435,Rockaway Twp. ,Morris
+0255,Rockleigh Bor. ,Bergen
+1817,Rocky Hill Bor. ,Somerset
+1340,Roosevelt Bor. ,Monmouth
+0718,Roseland Bor. ,Essex
+2014,Roselle Bor. ,Union
+2015,Roselle Park Bor. ,Union
+1436,Roxbury Twp. ,Morris
+1341,Rumson Bor. ,Monmouth
+0430,Runnemede Bor. ,Camden
+0256,Rutherford Bor. ,Bergen
+0257,Saddle Brook Twp. ,Bergen
+0258,Saddle River Bor. ,Bergen
+1713,Salem City ,Salem
+1917,Sandyston Twp. ,Sussex
+1219,Sayreville Bor. ,Middlesex
+2016,Scotch Plains Twp. ,Union
+1342,Sea Bright Bor. ,Monmouth
+1343,Sea Girt Bor. ,Monmouth
+0509,Sea Isle City ,Cape May
+1527,Seaside Heights Bor. ,Ocean
+1528,Seaside Park Bor. ,Ocean
+0909,Secaucus Town ,Hudson
+0332,Shamong Twp. ,Burlington
+0611,Shiloh Bor. ,Cumberland
+1529,Ship Bottom Bor. ,Ocean
+1344,Shrewsbury Bor. ,Monmouth
+1345,Shrewsbury Twp. ,Monmouth
+0431,Somerdale Bor. ,Camden
+0121,Somers Point City ,Atlantic
+1818,Somerville Bor. ,Somerset
+1220,South Amboy City ,Middlesex
+1819,South Bound Brook Bor.,Somerset
+1221,South Brunswick Twp. ,Middlesex
+0259,South Hackensack Twp. ,Bergen
+0816,South Harrison Twp. ,Gloucester
+0719,South Orange Village Twp.,Essex
+1222,South Plainfield Bor. ,Middlesex
+1223,South River Bor. ,Middlesex
+1530,South Toms River Bor.,Ocean
+0333,Southampton Twp. ,Burlington
+1918,Sparta Twp. ,Sussex
+1224,Spotswood Bor. ,Middlesex
+1347,Spring Lake Bor. ,Monmouth
+1348,Spring Lake Heights Bor.,Monmouth
+0334,Springfield Twp. ,Burlington
+2017,Springfield Twp. ,Union
+1531,Stafford Twp. ,Ocean
+1919,Stanhope Bor. ,Sussex
+1920,Stillwater Twp. ,Sussex
+1023,Stockton Bor. ,Hunterdon
+0510,Stone Harbor Bor. ,Cape May
+0612,Stow Creek Twp. ,Cumberland
+0432,Stratford Bor. ,Camden
+2018,Summit City ,Union
+1532,Surf City Bor. ,Ocean
+1921,Sussex Bor. ,Sussex
+0817,Swedesboro Bor. ,Gloucester
+0335,Tabernacle Twp. ,Burlington
+0433,Tavistock Bor. ,Camden
+0260,Teaneck Twp. ,Bergen
+0261,Tenafly Bor. ,Bergen
+0262,Teterboro Bor. ,Bergen
+1024,Tewksbury Twp. ,Hunterdon
+1349,Tinton Falls Bor. ,Monmouth
+1508,Toms River Twp. ,Ocean
+1612,Totowa Bor. ,Passaic
+1111,Trenton City ,Mercer
+1533,Tuckerton Bor. ,Ocean
+1350,Union Beach Bor. ,Monmouth
+0910,Union City ,Hudson
+1025,Union Twp. ,Hunterdon
+2019,Union Twp. ,Union
+0613,Upper Deerfield Twp. ,Cumberland
+1351,Upper Freehold Twp. ,Monmouth
+1714,Upper Pittsgrove Twp.,Salem
+0263,Upper Saddle River Bor.,Bergen
+0511,Upper Twp. ,Cape May
+0122,Ventnor City ,Atlantic
+1922,Vernon Twp. ,Sussex
+0720,Verona Twp. ,Essex
+1437,Victory Gardens Bor. ,Morris
+0614,Vineland City ,Cumberland
+0434,Voorhees Twp. ,Camden
+0264,Waldwick Bor. ,Bergen
+1352,Wall Twp. ,Monmouth
+0265,Wallington Bor. ,Bergen
+1923,Walpack Twp. ,Sussex
+1613,Wanaque Bor. ,Passaic
+1924,Wantage Twp. ,Sussex
+1820,Warren Twp. ,Somerset
+2121,Washington Bor. ,Warren
+0266,Washington Twp. ,Bergen
+0336,Washington Twp. ,Burlington
+0818,Washington Twp. ,Gloucester
+1438,Washington Twp. ,Morris
+2122,Washington Twp. ,Warren
+1821,Watchung Bor. ,Somerset
+0435,Waterford Twp. ,Camden
+1614,Wayne Twp. ,Passaic
+0911,Weehawken Twp. ,Hudson
+0819,Wenonah Bor. ,Gloucester
+1026,West Amwell Twp. ,Hunterdon
+0721,West Caldwell Twp. ,Essex
+0512,West Cape May Bor.,Cape May
+0820,West Deptford Twp. ,Gloucester
+1353,West Long Branch Bor.,Monmouth
+1615,West Milford Twp. ,Passaic
+0912,West New York Town,Hudson
+0722,West Orange Twp. ,Essex
+0513,West Wildwood Bor. ,Cape May
+1113,West Windsor Twp. ,Mercer
+0337,Westampton Twp. ,Burlington
+2020,Westfield Town ,Union
+0821,Westville Bor. ,Gloucester
+0267,Westwood Bor. ,Bergen
+0123,Weymouth Twp. ,Atlantic
+1439,Wharton Bor. ,Morris
+2123,White Twp. ,Warren
+0514,Wildwood City ,Cape May
+0515,Wildwood Crest Bor. ,Cape May
+0338,Willingboro Twp. ,Burlington
+2021,Winfield Twp. ,Union
+0436,Winslow Twp. ,Camden
+0516,Woodbine Bor. ,Cape May
+1225,Woodbridge Twp. ,Middlesex
+0822,Woodbury City ,Gloucester
+0823,Woodbury Heights Bor. ,Gloucester
+0268,Woodcliff Lake Bor. ,Bergen
+1616,Woodland Park Bor. ,Passaic
+0339,Woodland Twp. ,Burlington
+0437,Woodlynne Bor. ,Camden
+0269,Wood-Ridge Bor. ,Bergen
+1715,Woodstown Bor.,Salem
+0824,Woolwich Twp. ,Gloucester
+0340,Wrightstown Bor. ,Burlington
+0270,Wyckoff Twp. ,Bergen
