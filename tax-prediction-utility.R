@@ -23,9 +23,9 @@ ui <- fluidPage(
   titlePanel("Compare predicted township taxes for homes in New Jersey:"),
   fluidRow(
     column(12, 
-           tags$p("Taxes depend on the assessed value of the property, which is often different from how much you spend."),
-           tags$br(),
-           tags$p("Use this utility to estimate assessment values and township taxes at different locations and price points."))
+           tags$p("Taxes depend on the assessed value of the property, which often differs from the sale price."),
+           #tags$br(),
+           tags$p("Use this utility to estimate assessment values and township taxes at different locations and price points. It accounts for aggregate trends in assessment, but in practice, the details of the specific property play a significant role."))
   ),
   fluidRow(
     column(12,
@@ -45,14 +45,14 @@ ui <- fluidPage(
   fluidRow(
     column(12,
     tags$br(),
-    tags$p("This tool uses the effective township tax rate from 2021."))
+    tags$p("This tool uses the effective township tax rate from 2020. If you have more recent tax rates for all NJ townships, please let me know!"))
   )
 )
 
 
 
 server <- function(input, output, session) {
-  source("taxPredictor.R")
+  source("tax-predictor-code.R")
 
 
   

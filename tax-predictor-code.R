@@ -1,5 +1,6 @@
 
 # import the tax rates, county and twp names:
+setwd(find_root_file(criterion = is_git_root, path = "."))
 twpRatesAndCodes <- readRDS(file.path(".", "inputs", "twpRatesAndCodes.rds"))
 countyList <- unique(twpRatesAndCodes$county.rates)[2:20]
 
