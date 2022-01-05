@@ -1,11 +1,11 @@
 
 # import the tax rates, county and twp names:
-twpRatesAndCodes <- readRDS(file.path("~", "inputs", "twpRatesAndCodes.rds"))
+twpRatesAndCodes <- readRDS(file.path(".", "inputs", "twpRatesAndCodes.rds"))
 countyList <- unique(twpRatesAndCodes$county.rates)[2:20]
 
 
 # A function that accepts a county name and returns a list of twp names:
-choice_func <- function(inputVal){
+choice_func <- function(inputVal) {
   filterCo <- twpRatesAndCodes %>% 
     filter(county.rates == inputVal)
   unique(filterCo$town.codes)
@@ -15,7 +15,7 @@ choice_func <- function(inputVal){
 # and last year's tax
 # df is the tidied county data frame sent to countyTBL, twpChoice and priceChoice
 # are passed inputs
-taxPredictor <- function(df, twpChoice, priceChoice){
+taxPredictor <- function(df, twpChoice, priceChoice) {
   # filter the county data by twp
   dfSub <- df %>%
     filter(twp == as.character(twpChoice))
@@ -24,7 +24,7 @@ taxPredictor <- function(df, twpChoice, priceChoice){
     priceBiasTrend <- lm(adjSR ~ price, dfSub)
     SR_hat <- predict(priceBiasTrend, data.frame(price = priceChoice))
     # otherwise
-  } else {SR_hat <- mean(dfSub$adjSR)}
+  } else {SR_hat <- mean(dfSub$adjSR) }
   
   assess_pred <- SR_hat * priceChoice  
   last_yrs_tax <- assess_pred * (0.01*dfSub$General_Rate[1])
@@ -33,7 +33,7 @@ taxPredictor <- function(df, twpChoice, priceChoice){
   paste0(txt_assess_pred, ". \n", txt_last_yrs_tax, ".", sep = "")
 }
 
-testFunc <- function(df){
+testFunc <- function(df) {
   return(df[3,3])
 }
 

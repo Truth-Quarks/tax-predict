@@ -6,6 +6,10 @@ library(tidyverse)
 
 setwd(find_root_file(criterion = is_git_root, path = "."))
 
+# import the tax rates, county and twp names:
+twpRatesAndCodes <- readRDS(file.path(".", "inputs", "twpRatesAndCodes.rds"))
+countyList <- unique(twpRatesAndCodes$county.rates)[2:20]
+
 # Create selectInput(county), selectInput(township based on county), and textOutput from twp
 selectTwp <- function(inputID, choiceID, outputID){
   list( selectInput(inputID, "Choose a County:", countyList),
@@ -17,6 +21,12 @@ ui <- fluidPage(
   useShinyjs(),
   
   titlePanel("Compare predicted township taxes for homes in New Jersey:"),
+  fluidRow(
+    column(12, 
+           tags$p("Taxes depend on the assessed value of the property, which is often different from how much you spend."),
+           tags$br(),
+           tags$p("Use this utility to estimate assessment values and township taxes at different locations and price points."))
+  ),
   fluidRow(
     column(12,
     numericInput("price", "How much would you like to spend?", value = 150000)
@@ -35,7 +45,7 @@ ui <- fluidPage(
   fluidRow(
     column(12,
     tags$br(),
-    tags$p("This app is for demonstration purposes. It uses the effective township tax rate from 2021."))
+    tags$p("This tool uses the effective township tax rate from 2021."))
   )
 )
 
@@ -73,7 +83,7 @@ server <- function(input, output, session) {
 #############
   # Get the data set fot the first county SRs
   countyTBL1 <- reactive({
-    countyFile <- file.path("~", "inputs", "tidy_county",
+    countyFile <- file.path(".", "inputs", "tidy_county",
                         stringr::str_to_lower(as.character(input$county1)))
     read_csv(countyFile)
   })
@@ -87,7 +97,7 @@ server <- function(input, output, session) {
   
   # Second county:
   countyTBL2 <- reactive({
-    countyFile <- file.path("~", "inputs", "tidy_county",
+    countyFile <- file.path(".", "inputs", "tidy_county",
                         stringr::str_to_lower(as.character(input$county2)))
     read_csv(countyFile)
   })
@@ -100,7 +110,7 @@ server <- function(input, output, session) {
   
   # Third county:
   countyTBL3 <- reactive({
-    countyFile <- file.path("~", "inputs", "tidy_county",
+    countyFile <- file.path(".", "inputs", "tidy_county",
                         stringr::str_to_lower(as.character(input$county3)))
     read_csv(countyFile)
   })
