@@ -1,4 +1,4 @@
-# Tax Predicion Utility
+# Tax Prediction Utility
 A tool that uses sales ratios and market trends to predict taxes for NJ properties, given a specific township and the amount paid for the property. It contains code that generates the front and back ends using Shiny in R (tax-prediction-utility.R), the functions that do the actual calculations (tax-predictor-code.R), and a folder of input data. To use, clone the repo, open tax-prediction-utility.R in an IDE, and run the code.
 
 ### What it does:
