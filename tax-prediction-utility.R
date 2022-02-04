@@ -4,7 +4,7 @@ library(shiny)
 library(shinyjs)
 library(tidyverse)
 
-setwd(find_root_file(criterion = is_git_root, path = "."))
+#setwd(find_root_file(criterion = is_git_root, path = "."))
 
 # import the tax rates, county and twp names:
 twpRatesAndCodes <- readRDS(file.path(".", "inputs", "twpRatesAndCodes.rds"))
@@ -20,12 +20,12 @@ selectTwp <- function(inputID, choiceID, outputID){
 ui <- fluidPage(
   useShinyjs(),
   
-  titlePanel("Compare predicted township taxes for homes in New Jersey:"),
+  titlePanel("Compare predicted township taxes for homes at different price points in New Jersey:"),
   fluidRow(
     column(12, 
            tags$p("Taxes depend on the assessed value of the property, which often differs from the sale price."),
            #tags$br(),
-           tags$p("Use this utility to estimate assessment values and township taxes at different locations and price points. It accounts for aggregate trends in assessment, but in practice, the details of the specific property play a significant role."))
+           tags$p("Use this utility to estimate assessment values and township taxes at different locations and price points. It accounts for aggregate trends in assessment, but in practice, the details of the specific property play a significant role. So please don't use this tool to make financial decisions :)"))
   ),
   fluidRow(
     column(12,
@@ -81,7 +81,7 @@ server <- function(input, output, session) {
   
   
 #############
-  # Get the data set fot the first county SRs
+  # Get the data set for the first county's Sales Ratios
   countyTBL1 <- reactive({
     countyFile <- file.path(".", "inputs", "tidy_county",
                         stringr::str_to_lower(as.character(input$county1)))

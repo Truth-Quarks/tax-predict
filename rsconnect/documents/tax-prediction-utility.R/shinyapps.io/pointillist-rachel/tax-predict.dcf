@@ -1,0 +1,14 @@
+name: tax-predict
+title: tax-predict
+username:
+account: pointillist-rachel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5576060
+bundleId: 5539923
+url: https://pointillist-rachel.shinyapps.io/tax-predict/
+when: 1643915871.4252
+lastSyncTime: 1643915871.4252
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md|README.Rmd
