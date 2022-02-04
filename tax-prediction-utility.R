@@ -8,7 +8,7 @@ library(tidyverse)
 
 # import the tax rates, county and twp names:
 twpRatesAndCodes <- readRDS(file.path(".", "inputs", "twpRatesAndCodes.rds"))
-countyList <- unique(twpRatesAndCodes$county.rates)[2:20]
+countyList <- unique(twpRatesAndCodes$county.rates)[c(2:14, 16:20)]
 
 # Create selectInput(county), selectInput(township based on county), and textOutput from twp
 selectTwp <- function(inputID, choiceID, outputID){
@@ -29,7 +29,7 @@ ui <- fluidPage(
   ),
   fluidRow(
     column(12,
-    numericInput("price", "How much would you like to spend?", value = 150000)
+    numericInput("price", "How much will you spend to buy the property?", value = 150000)
   )),
   fluidRow(
     column(4,
@@ -84,7 +84,7 @@ server <- function(input, output, session) {
   # Get the data set for the first county's Sales Ratios
   countyTBL1 <- reactive({
     countyFile <- file.path(".", "inputs", "tidy_county",
-                        stringr::str_to_lower(as.character(input$county1)))
+                        gsub(" ", "", stringr::str_to_lower(as.character(input$county1))))
     read_csv(countyFile)
   })
   # Calculate the predicted tax
@@ -98,7 +98,7 @@ server <- function(input, output, session) {
   # Second county:
   countyTBL2 <- reactive({
     countyFile <- file.path(".", "inputs", "tidy_county",
-                        stringr::str_to_lower(as.character(input$county2)))
+                        gsub(" ", "", stringr::str_to_lower(as.character(input$county2))))
     read_csv(countyFile)
   })
   delay(500,
@@ -111,7 +111,7 @@ server <- function(input, output, session) {
   # Third county:
   countyTBL3 <- reactive({
     countyFile <- file.path(".", "inputs", "tidy_county",
-                        stringr::str_to_lower(as.character(input$county3)))
+                       gsub(" ", "", stringr::str_to_lower(as.character(input$county3))))
     read_csv(countyFile)
   })
   delay(500, 
